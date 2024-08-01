@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
 
-        <bootstrap.version>3.3.7-1</bootstrap.version>
+        <bootstrap.version>5.0.0</bootstrap.version>
         <jquery.version>1.11.1</jquery.version>
 
         <jetty.version>9.4.8.v20171121</jetty.version>
